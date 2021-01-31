@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expect to render card component 1`] = `
+<div
+  className="tc bg-light-green dib br3 ma3 pa2 grow bw2 shadow-5"
+>
+  <img
+    alt="robo"
+    src="https://robohash.org/undefined?200x200"
+  />
+  <div>
+    <h2 />
+    <p />
+  </div>
+</div>
+`;
