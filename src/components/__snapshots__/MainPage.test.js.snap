@@ -8,7 +8,7 @@ exports[`renders MainPage correctly 1`] = `
   <SearchBox />
   <Scroll>
     <CardList
-      robots={[Function]}
+      robots={Array []}
     />
   </Scroll>
 </div>
